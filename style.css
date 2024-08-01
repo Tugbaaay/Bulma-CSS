@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ma{
+    min-height: 100px;
+    background-color: gainsboro;
+}
+.hr{
+    border-bottom: 1px gainsboro solid;
+    margin-bottom: 5px;
+}
+.is-3{
+    max-height: 197px;
+}
+img{
+    border-radius: 5px;
+    
+}
+div .article{
+    background-color: white;
+    margin-top: 2px;
+    border-radius: 5px;
+}
+b{
+    font-size: 20px;
+}
+.checked {
+    color: orange;
+}
+#start{
+    min-width: 220px;
+    min-height: 40px;
+    margin: 15px 0 15px 15px;
+    border: 1px gainsboro solid;
+    border-radius: 5px;
+}
+#children{
+    min-width: 220px;
+    min-height: 40px;
+    margin: 15px 0 15px 15px;
+    border: 1px gainsboro solid;
+    border-radius: 5px;
+}
+.btn{
+    margin: 5px;
+    background-color: gainsboro;
+    font-size: 12px;
+    border-radius: 2px;
+    padding:0 2px 0 2px;
+    
+}
+.left-column{
+    margin-left: 80px;
+    
+}
+.left-column>div>p{
+    padding-left: 10px;
+    padding-top: 0;
+
+    
+}
+.button-tur{
+    background-color:#405D72 ;
+    padding: 5px 30px 5px 30px;
+}
+.yas-btn{
+    width: 80px;
+}
+.footer{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    padding:20px;
+    margin-top: 10px;
+    
+}
+
+.hr-2{
+    background-color:  #508c9b;
+    text-align: center;
+     margin-top: 12px;
+    border-radius: 5px 0 0 5px;
+    max-width: 150px;
+    color: white;
+}
+.hr-3{
+    border: 1px rgb(231, 227, 227) solid;
+    text-align: center;
+    margin-top: 12px;
+    
+    border-radius: 0 5px 5px 0;
+}
+.city{
+    border: 1px rgb(231, 227, 227) solid;
+    width: 210px;
+    height: 90px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+}
+.drop-menu{
+    margin-top: -15px;
+    margin-left: 60px;
+    
+}
